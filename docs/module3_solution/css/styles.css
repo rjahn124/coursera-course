@@ -1,0 +1,11 @@
+.menu-nav{
+	background-color: pink;
+	color:red;
+	text-align: center;
+}
+
+.menu-content{
+	height:1000px;
+	background-color: yellow;
+	color:black;
+}
